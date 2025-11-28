@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+body {
+  background-color: #252525;
+  color: #e6e6e6;
+  min-height: 100vh;
+}
+
+@layer components {
+  .hero-btn {
+    @apply py-2 px-4 bg-red-600 rounded transition hover:brightness-75 min-w-[165px] flex items-center justify-center gap-2;
+  }
+}
