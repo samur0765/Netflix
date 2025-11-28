@@ -1,13 +1,39 @@
-# React + Vite
+# 🎬 Netflix Clone – React & Redux Thunk
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu proje, Netflix arayüzünü temel alan ve film/dizi içeriklerini TMDB API üzerinden listeleyen modern bir web uygulamasıdır. React ekosisteminin güçlü araçları kullanılarak geliştirilmiş, responsive ve performanslı bir kullanıcı deneyimi sunar.
 
-Currently, two official plugins are available:
+# 🚀 Kullanılan Teknolojiler
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React – UI bileşen yapısı
 
-## Expanding the ESLint configuration
+Redux Thunk – Asenkron state yönetimi
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Netflix
+Axios – API istekleri
+
+TailwindCSS – Hızlı ve şık tasarım
+
+React Player – Video oynatıcısı
+
+Millify – Sayısal verilerin sadeleştirilmesi
+
+TMDB API – Film/dizi veri kaynağı
+
+# 📌 Özellikler
+
+✔️ Trend, Popüler, En Çok Oy Alan film/dizi listeleri
+
+✔️ TMDB API üzerinden veri çekme
+
+✔️ Video trailer oynatma (React-Player ile)
+
+✔️ Responsive Netflix benzeri tasarım
+
+✔️ Hover animasyonlu kart yapısı
+
+✔️ Film/dizi detay sayfası (varsa)
+
+✔️ Sayı formatlama (izlenme, beğeni vb.)
+
+# 📸 Ekran Görüntüsü
+
+![](public/kayıt.gif)
